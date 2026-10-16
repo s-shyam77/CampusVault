@@ -1,6 +1,9 @@
 {
   "name": "campusvault-server",
   "version": "1.0.0",
+  "engines": {
+  "node": "22.x"
+},
   "type": "module",
   "scripts": {
     "dev": "nodemon server.js",
